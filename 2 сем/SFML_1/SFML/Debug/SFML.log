@@ -1,0 +1,23 @@
+﻿  Source.cpp
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(36): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(68): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(69): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(74): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(76): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(147): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(150): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(166): warning C4305: =: усечение из "double" в "float"
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(167): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(176): warning C4305: =: усечение из "double" в "float"
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(177): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(185): warning C4305: =: усечение из "double" в "float"
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(186): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(194): warning C4305: =: усечение из "double" в "float"
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(195): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(217): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\sfml\sfml\source.cpp(227): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  SFML.vcxproj -> C:\Users\Влад\Desktop\универ\oaip\labs\2 сем\SFML\Debug\SFML.exe

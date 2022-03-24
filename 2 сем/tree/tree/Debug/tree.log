@@ -1,0 +1,16 @@
+﻿  Iskhodny_kod.cpp
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\tree.h(92): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\tree.h(93): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\tree.h(158): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\tree.h(192): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\iskhodny_kod.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\iskhodny_kod.cpp(6): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\iskhodny_kod.cpp(7): warning C4101: tmp: неиспользованная локальная переменная
+  Tree.cpp
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\tree.h(92): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\tree.h(93): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\tree.h(158): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\tree.h(192): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+c:\users\влад\desktop\универ\oaip\labs\2 сем\tree\tree\tree.h(132): warning C4715: Tree::find: значение возвращается не при всех путях выполнения
+  tree.vcxproj -> C:\Users\Влад\Desktop\универ\oaip\labs\2 сем\tree\Debug\tree.exe
